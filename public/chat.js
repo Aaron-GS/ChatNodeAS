@@ -12,7 +12,7 @@ var persona = document.getElementById('persona'),
     output = document.getElementById('output');
 
 // Cargar el sonido de notificación
-var notificationSound = new Audio('/notification.mp3');
+var notificationSound = new Audio('/notification.mp3.mp3');
 
 // Evento al hacer clic en "Enviar"
 botonEnviar.addEventListener('click', function() {
